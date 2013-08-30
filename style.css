@@ -1,0 +1,68 @@
+html, body{
+    margin:0px;
+    padding:0px;
+}
+
+.well {
+	padding: 0;
+	margin: 0;
+}
+
+.hero-unit{
+	margin-bottom: 0px;
+}
+
+.navUp{
+	margin-top: 62px;
+}
+
+.overImg {
+	position: absolute;
+	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 5;
+}
+
+.twitters {
+	margin-top: 10px;
+}
+
+.social_icon {
+	/*opacity: 0.8;
+    -moz-opacity: 0.8;
+    -webkit-opacity: 0.8;*/
+}
+
+.img22 {
+	margin: 0;
+	padding: 0;
+}
+.colorBlack {
+	background-color: #000000;
+}
+
+h3,h4 {
+	padding: 0px;
+	margin: 0px;
+}
+
+.dateNews {
+	font:bold 43px/36px Arial, Helvetica, sans-serif;
+}
+
+p {
+	padding: 0;
+}
+
+ul {
+	list-style:none;
+}
+li {
+	list-style: none;
+}
+
+.newsPlus {
+	margin-top: 5px;
+	padding-top: 5px;
+}
